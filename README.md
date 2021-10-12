@@ -2,7 +2,7 @@
 
 **SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **10* hours spent in total
+Time spent: *10* hours spent in total
 
 ## User Stories (Part 2)
 
@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## User Stories (Part 1)
 
-Time spent: **5* hours spent in Part 1
+Time spent: *5* hours spent in Part 1
 
 The following **required** functionality is completed:
 
